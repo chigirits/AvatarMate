@@ -1,0 +1,17 @@
+{
+  "name": "tokyo.chigiri.avatarmatevrc",
+  "displayName": "AvatarMate.VRC",
+  "version": "0.1.3",
+  "unity": "2022.3",
+  "description": "Chigiri's avatar gimmick collection for VRChat Avatars",
+  "vrchatVersion": "2022.1.1",
+  "author": {
+    "name": "Chigiri Tsutsumi",
+    "email": "chigirits@gmail.com",
+    "url": "https://chigiri.tokyo"
+  },
+  "license": "MIT",
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.7.1"
+  }
+}
